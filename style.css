@@ -53,6 +53,15 @@ li {
     margin-bottom: 6px;
 }
 
+div {
+    width: 300px;
+    height: 150px;
+    background-color: #b5ad88;
+    border: 2px solid #2f2c25;
+    padding: 20px;
+    margin: 25px;
+}
+
 footer {
     background-color: #756f4f;
     padding: 15px 20px;
